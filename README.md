@@ -52,22 +52,22 @@
 ## Скріншоти додатку
 
 #### Запрос на стороннюю авторизацию
-![tmdb01.png](https://github.com/r-serega/movie_browser/blob/main/screenshots/tmdb01.png?raw=true))
+![TMDB01.png](/screenshots/TMDB01.png)
 
 #### Успешная авторизация
-![tmdb02.png](screenshots/tmdb02.png)
+![TMDB02.png](/screenshots/TMDB02.png)
 
 #### Список фильмов (главный экран)
-![tmdb03.png](/screenshots/tmdb03.png)
+![TMDB03.png](/screenshots/TMDB03.png)
 
 #### Экран подробностей - поддержка тем
-![tmdb04.png](/screenshots/tmdb04.png)
+![TMDB04.png](/screenshots/TMDB04.png)
 
 #### Избранное - поддержка тем
-![tmdb05.png](/screenshots/tmdb05.png)
+![TMDB05.png](/screenshots/TMDB05.png)
 
 #### Экран подробностей
-![tmdb06.png](/screenshots/tmdb06.png)
+![TMDB06.png](/screenshots/TMDB06.png)
 
 #### Навигация с помощью бокового меню
-![tmdb07.png](/screenshots/tmdb07.png)
+![TMDB07.png](/screenshots/TMDB07.png)
