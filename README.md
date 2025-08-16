@@ -52,10 +52,10 @@
 ## Скріншоти додатку
 
 #### Запрос на стороннюю авторизацию
-![tmdb01.png](/screenshots/tmdb01.png)
+![tmdb01.png](https://github.com/r-serega/movie_browser/blob/main/screenshots/tmdb01.png?raw=true))
 
 #### Успешная авторизация
-![tmdb02.png](/screenshots/tmdb02.png)
+![tmdb02.png](screenshots/tmdb02.png)
 
 #### Список фильмов (главный экран)
 ![tmdb03.png](/screenshots/tmdb03.png)
