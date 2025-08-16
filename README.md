@@ -1,16 +1,73 @@
-# movie_browser
+# Техническое задание: Мини-приложение “Movie Browser”
 
-A new Flutter project.
+## Цель:
 
-## Getting Started
+Создать Android-приложение, которое позволяет просматривать список фильмов, получаемый из публичного API, с возможностью добавления их в избранное и просмотра подробной информации.
 
-This project is a starting point for a Flutter application.
+## Функциональность:
 
-A few resources to get you started if this is your first Flutter project:
+1. Список фильмов (главный экран):
+    
+    Получение и отображение списка фильмов (из открытого API, например, [The Movie DB API](https://developers.themoviedb.org/3/getting-started/introduction) или замоканный JSON)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    У каждого фильма отображается:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+        Название
+
+        Постер
+
+        Краткое описание (overview)
+
+    Возможность перейти на экран с подробной информацией
+
+    Кнопка “добавить в избранное” (звёздочка или иконка лайка)
+
+2. Экран подробностей:
+
+        Название
+
+        Постер
+
+        Полное описание
+
+        Год выпуска
+
+        Кнопка “Добавить/удалить из избранного”
+
+3. Избранное:
+
+        Отдельная вкладка или экран, на котором отображаются все добавленные фильмы
+
+        Возможность удалить фильм из избранного
+
+### Добавлено:
+1. Локализация приложения в соответствии с локалью устройства (English language, Україньска мова та русский язык).
+2. Поддержка цветовых тем.
+3. Код структурированый, в основе GetX.
+4. Проект предоставляется в виде репозитария Git на GitHub, с возможность скачать испоьняемые файлы для установки на устройства Android.
+
+
+## Код додатку розгорнуто на GitHub.
+Реалізовано вказаний функціонал. 
+## Скріншоти додатку
+
+#### Запрос на стороннюю авторизацию
+![tmdb01.png](/screenshots/tmdb01.png)
+
+#### Успешная авторизация
+![tmdb02.png](/screenshots/tmdb02.png)
+
+#### Список фильмов (главный экран)
+![tmdb03.png](/screenshots/tmdb03.png)
+
+#### Экран подробностей - поддержка тем
+![tmdb04.png](/screenshots/tmdb04.png)
+
+#### Избранное - поддержка тем
+![tmdb05.png](/screenshots/tmdb05.png)
+
+#### Экран подробностей
+![tmdb06.png](/screenshots/tmdb06.png)
+
+#### Навигация с помощью бокового меню
+![tmdb07.png](/screenshots/tmdb07.png)
