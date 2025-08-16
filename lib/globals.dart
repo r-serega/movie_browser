@@ -1,0 +1,9 @@
+//globals.dart
+
+import 'package:flutter/material.dart';
+
+// final GlobalKey<ScaffoldState> drawerKey = GlobalKey();
+
+final GlobalKey<ScaffoldMessengerState> snackbarKey = GlobalKey<ScaffoldMessengerState>();
+
+final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
